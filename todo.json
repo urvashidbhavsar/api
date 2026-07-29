@@ -1,1 +1,12 @@
-[]
+[
+   {
+   "id":1,
+   "currentDate":"26-06-2025",
+   "todotext":"Read Book",
+  },
+   {
+   "id":2,
+   "currentDate":"05-11-2025",
+   "todotext":"Do Activity",
+  },
+]
